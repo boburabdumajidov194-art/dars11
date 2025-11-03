@@ -1,0 +1,36 @@
+header{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    border-bottom: 3px solid rgb(1, 1, 149);
+}
+.box{
+    /* color: white; */
+    border-bottom: 4px solid blue;
+    border-top: 4px solid blue;
+    width: 350px;
+    height: 300px;
+    border-radius: 5%;
+}
+h1{
+    text-align: center;
+}
+img{
+    height: 100px;
+    width: 100px;
+margin-left: 45px;
+}
+button{
+    background-color: blue;
+    border-radius: 50px;
+    color: white;
+    border: solid blue;
+  
+}
+footer{
+   text-align: center;
+    background-color: rgb(1, 1, 121);
+        border-bottom: 3px solid rgb(2, 2, 177);
+        border-top: 3px solid rgb(2, 2, 177);
+}
+   
